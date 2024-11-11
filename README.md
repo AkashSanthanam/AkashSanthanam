@@ -3,10 +3,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
-- 🔭 I’m currently working on **Music App**
-
-- 🌱 I’m currently learning **Blockchain**
-
 - 📫 How to reach me **akashkrish27@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/akash-san/](https://www.linkedin.com/in/akash-san/)
